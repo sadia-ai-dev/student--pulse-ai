@@ -24,4 +24,4 @@ Student Pulse AI is a web-based project designed to help manage student activiti
 2. Open index.html in your browser
 
 ## 👩‍💻 Created By
-Your Name**Sadia Ashraf**# student--pulse-ai
+Sadia Ashraf
