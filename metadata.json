@@ -1,0 +1,6 @@
+{
+  "name": "Student Pulse",
+  "description": "AI-powered student life assistant with AI study planner, stress management, mood tracker, daily motivation tips, and AI chatbot tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
