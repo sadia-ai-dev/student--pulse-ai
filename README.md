@@ -59,5 +59,5 @@ Always keep responses relevant, respectful, and student-focused.
 2. Open project folder
 3. Run the application in browser
 4. ## 👩‍💻 Author
-Your Name
+Sadia Ashraf
 BS Computer Science Student
