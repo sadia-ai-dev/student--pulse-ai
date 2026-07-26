@@ -40,7 +40,7 @@ Always keep responses relevant, respectful, and student-focused.
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-
+https://github.com/sadia-ai-dev/student--pulse-ai/blob/main/WhatsApp%20Image%202026-07-26%20at%2010.38.07%20PM%20(1).jpeg
 
 ### 🤖 AI Chat Assistant
 
