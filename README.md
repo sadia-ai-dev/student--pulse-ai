@@ -46,7 +46,7 @@ https://github.com/sadia-ai-dev/student--pulse-ai/blob/main/WhatsApp%20Image%202
 
 
 ### 📊 Student Dashboard
-
+https://github.com/sadia-ai-dev/student--pulse-ai/blob/main/Screenshot_25-7-2026_165037_aistudio.google.com.jpeg.crdownload
 ## 🛠️ Tools & Technologies
 - Google AI Studio
 - Gemini AI Model
