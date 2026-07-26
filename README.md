@@ -40,13 +40,13 @@ Always keep responses relevant, respectful, and student-focused.
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./screenshots/home.png)
+
 
 ### 🤖 AI Chat Assistant
-![AI Chat](./screenshots/ai-chat.png)
+
 
 ### 📊 Student Dashboard
-![Dashboard](./screenshots/dashboard.png)
+
 ## 🛠️ Tools & Technologies
 - Google AI Studio
 - Gemini AI Model
